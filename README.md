@@ -1,6 +1,6 @@
-## Build your portfolio project (Week 2): MVP Complete:
+# Build your portfolio project (Week 2): MVP Complete:
 
-### Progress:
+## Progress:
 
 **1. Progress Rating (1-10): 7**
 
@@ -17,7 +17,7 @@ This week, substantial progress has been achieved in various project components.
 1. Backend Logic Implementation: While in progress, some components are still pending completion.
 2. API Integration with External Services: Challenges in this area have led to delays in the integration process.
 
-### Challenges:
+## Challenges:
 
 **Most Difficult Technical Challenge:**
 
@@ -27,4 +27,10 @@ The most challenging technical aspect this week involved addressing scalability 
 
 The most challenging non-technical aspect this week was managing time and resources effectively. Balancing frontend and backend development alongside API integration and database setup within the defined two-week window presented a significant challenge. Prioritizing tasks without compromising the overall system quality required meticulous planning and constant reassessment. As a solo developer handling both project lead and full-stack development roles, time management became crucial. The adaptation involved reassessing task priorities, moving certain non-essential features to subsequent development phases, and ensuring that core functionalities received robust implementation. The challenge was not only about meeting development goals but also about delivering a system that aligns with the initial vision while addressing unforeseen challenges. Regular self-assessment and a strict project management approach were adopted to ensure efficient time allocation and adherence to the project timeline.
 
-### Screenshots:
+## Screenshots:
+
+![Login screenshot](https://github.com/OMARAMO77/MVP-Complete-Portfolio/blob/master/login.PNG)
+
+![Signup screenshot](https://github.com/OMARAMO77/MVP-Complete-Portfolio/blob/master/signup.PNG)
+
+![Webapp screenshot](https://github.com/OMARAMO77/CarBnR/blob/master/web-app.PNG)
