@@ -33,4 +33,4 @@ The most challenging non-technical aspect this week was managing time and resour
 
 ![Signup screenshot](https://github.com/OMARAMO77/MVP-Complete-Portfolio/blob/master/signup.PNG)
 
-![Webapp screenshot](https://github.com/OMARAMO77/CarBnR/blob/master/web-app.PNG)
+![Webapp screenshot](https://github.com/OMARAMO77/MVP-Complete-Portfolio/blob/master/web-app.PNG)
